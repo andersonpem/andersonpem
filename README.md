@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/andersonpem" target="blank"><img src="https://img.shields.io/twitter/follow/andersonpem?logo=twitter&style=for-the-badge" alt="andersonpem" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Consulting**
+- 🔭 I’m currently working on **Altix Capital - Smart Consulting**
 
 - 🌱 I’m currently learning **Go, Kubernetes**
 
