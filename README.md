@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/andersonpem" target="blank"><img src="https://img.shields.io/twitter/follow/andersonpem?logo=twitter&style=for-the-badge" alt="andersonpem" /></a> </p>
 
-- 🔭 I’m currently available for hire :)
+- 🔭 I’m currently employed :)
 
 - 🌱 I’m currently learning **Go, Kubernetes**
 
